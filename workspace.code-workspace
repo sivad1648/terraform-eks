@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Divya\\test\\testdemo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\terraform eks_1"
+		}
+	],
+	"settings": {}
+}
